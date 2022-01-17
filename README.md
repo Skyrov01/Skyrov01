@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skyrov01
 - 👀 I’m interested in Computer Science & Educatin
 - 🌱 I’m currently learning Game Development in Godot and Game Design
-- 💞️ I’m looking to collaborate on Finnance app
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Send an Owl.
 
 <!---
