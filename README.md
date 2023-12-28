@@ -1,11 +1,11 @@
 
-👋 Hi, I’m @Skyrov
+- 👋 Hi, I’m @Skyrov
 
-🧭 Progressivism Defender 
-📟 Computer Science Enthusiast
-👾 Aspiring Game Designer
-📚 Future Shaping Teacher
-& the Founder of https://iobotics.ro
+- 🧭 Progressivism Defender 
+- 📟 Computer Science Enthusiast
+- 👾 Aspiring Game Designer
+- 📚 Future Shaping Teacher
+- 👑 the Founder of https://iobotics.ro
 
 <!---
 Skyrov01/Skyrov01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
