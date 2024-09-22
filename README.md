@@ -3,6 +3,7 @@
 
 - 🧭 Progressivism Defender 
 - 📟 Computer Science Enthusiast
+- 💡 Roboticist
 - 👾 Aspiring Game Designer
 - 📚 Future Shaping Teacher
 - 👑 Founder of https://iobotics.ro
