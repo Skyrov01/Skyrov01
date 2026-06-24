@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m @Skyrov
 
-- 🧭 Progressivism Defender 
 - 📟 Computer Science Enthusiast
 - 💡 Roboticist
 - 👾 Aspiring Game Designer
